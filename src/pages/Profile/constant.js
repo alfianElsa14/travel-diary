@@ -1,0 +1,2 @@
+export const GET_POST_BY_AUTHOR = "GET_POST_BY_AUTHOR"
+export const SET_POST_BY_AUTHOR = "SET_POST_BY_AUTHOR"

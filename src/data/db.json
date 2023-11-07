@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "bersemayam di tanah dewata",
+      "imageUrl": "https://cdn1-production-images-kly.akamaized.net/QH-trJKyaMfmzi-zoVkg6GxV25A=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2952777/original/064510900_1572339600-indonesia-4559057_1920.jpg",
+      "authorId": 1,
+      "date": "20 mei 2021",
+      "description": "Liburan di tahun baru 2020 keberangkatan saya menuju Pulau Dewata Bali.  Sampai lah saya malam itu di Bali Airport menujukan waktu jam 02.00, dan melanjutkan pejalanan yang menyenangkan..",
+      "shortDescription": "test 2"
+    },
+    {
+      "id": 2,
+      "title": "lagi nyantai ",
+      "imageUrl": "https://www.koranpublikasi.com/wp-content/uploads/2021/11/065651200_1608538005-shutterstock_630184640.jpg",
+      "authorId": 2,
+      "date": "20 mei 2021",
+      "description": "Sang bagaskara sudah beberapa menit lalu berangkat ke peraduannya di ufuk sebelah barat. aku meninggalkan pantai kuta meski pengujung yang menikmati sunset masih belum berkurang, bahkan ...",
+      "shortDescription": "test 2"
+    },
+    {
+      "id": 3,
+      "title": "bertarung dengan alam",
+      "imageUrl": "https://img2.beritasatu.com/cache/beritasatu/960x620-3/781475905067.jpg",
+      "authorId": 1,
+      "date": "20 mei 2021",
+      "description": "Let’s start at the very beginning. The Tower of London (St Katharine's & Wapping; 020 3166 6000) takes you back to the London of William the Conqueror – it was around 1078 when he began work on ...",
+      "shortDescription": "test 2"
+    },
+    {
+      "id": 4,
+      "title": "bersenandung di kuta",
+      "imageUrl": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/01/16/600267356acf9-daftar-tempat-wisata-memukau-di-pulau-dewata-bali_665_374.jpg",
+      "authorId": 2,
+      "date": "20 mei 2021",
+      "description": "After landing at the airport (coming from the sunshine coast) we were a little lost on how to work with the public transport. We soon realised that easily enough the train had a straight-line route to where we were ...",
+      "shortDescription": "test 2"
+    },
+    {
+      "title": "lalallaalalalalal",
+      "imageUrl": "https://jogja.disway.id/upload/b86f5d55b89ac9a36898753a3bf39e96.jpg",
+      "authorId": 1,
+      "date": "20 Mei 2023",
+      "description": "CSS is the language we use to style an HTML document.  CSS describes how HTML elements should be displayed.  This tutorial will teach you CSS from basic to advanced.",
+      "shortDescription": "littel lah",
+      "id": 5
+    },
+    {
+      "title": "kuruna msasta",
+      "imageUrl": "https://www.ahstatic.com/photos/9078_ho_00_p_1024x768.jpg",
+      "authorId": 1,
+      "date": "20 Mei 2023",
+      "description": "anehh sih tapii kerennnn",
+      "shortDescription": "ini pulau",
+      "id": 6
+    },
+    {
+      "title": "lakaaa nangroo",
+      "imageUrl": "https://ik.imagekit.io/tvlk/blog/2020/04/Gunung-Slamet-Wikipedia.jpg?tr=dpr-2,w-675",
+      "authorId": 1,
+      "date": "20 Mei 2023",
+      "description": "wayawwww laaaa nakaakbskadjsgudgausdgaugdasdgak",
+      "shortDescription": "wayaww",
+      "id": 7
+    },
+    {
+      "title": "kepala puyeng kesini ajah",
+      "imageUrl": "https://statik.tempo.co/data/2021/03/05/id_1005118/1005118_720.jpg",
+      "authorId": 2,
+      "date": "20 Mei 2023",
+      "description": "anehh sih tapii kerennnn",
+      "shortDescription": "ini pulau",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "fullname": "Jaka Sembung",
+      "email": "jaka@gmail.com",
+      "password": "1234567",
+      "image": "https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "srigala",
+      "email": "srigala@gmail.com",
+      "password": "1234567",
+      "image": "https://media.istockphoto.com/id/1142003969/id/foto/profil-close-up-pria-kulit-hitam-muda-tampan-dengan-latar-belakang-putih-terisolasi.jpg?s=612x612&w=0&k=20&c=XgL1WxkZtbJ8Ufick3qB3XdDkhVzWuy68P-ReMP-LUQ="
+    }
+  ]
+}
